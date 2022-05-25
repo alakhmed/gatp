@@ -1,6 +1,5 @@
-<!DOCTYPE html>
+
 <head>
-<title>GATP Credits</title>
 <link rel="stylesheet" href="main.css">
 </head>
 <body>
