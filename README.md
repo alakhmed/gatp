@@ -1,2 +1,0 @@
-# gatp
-school project
